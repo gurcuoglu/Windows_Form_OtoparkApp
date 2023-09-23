@@ -1,0 +1,326 @@
+[
+  {
+    "Plaka": "34ABC123",
+    "Renk": "Kırmızı",
+    "ModelYili": 2022,
+    "ModelAdi": "Sedan",
+  },
+  {
+    "Plaka": "06DEF456",
+    "Renk": "Mavi",
+    "ModelYili": 2020,
+    "ModelAdi": "Hatchback",
+  },
+  {
+    "Plaka": "78XYZ789",
+    "Renk": "Beyaz",
+    "ModelYili": 2021,
+    "ModelAdi": "SUV",
+  },
+  {
+    "Plaka": "55JKL321",
+    "Renk": "Siyah",
+    "ModelYili": 2019,
+    "ModelAdi": "Kupe",
+  },
+  {
+    "Plaka": "12MNO456",
+    "Renk": "Gri",
+    "ModelYili": 2023,
+    "ModelAdi": "Sedan",
+  },
+  {
+    "Plaka": "98PQR789",
+    "Renk": "Yeşil",
+    "ModelYili": 2020,
+    "ModelAdi": "SUV",
+    "YedekLastik": true
+  },
+  {
+    "Plaka": "23STU123",
+    "Renk": "Sarı",
+    "ModelYili": 2021,
+    "ModelAdi": "Hatchback",
+  },
+  {
+    "Plaka": "45VWX789",
+    "Renk": "Turuncu",
+    "ModelYili": 2022,
+    "ModelAdi": "Kupe",
+  },
+  {
+    "Plaka": "67ABC456",
+    "Renk": "Bordo",
+    "ModelYili": 2021,
+    "ModelAdi": "Sedan",
+  },
+  {
+    "Plaka": "89DEF789",
+    "Renk": "Kahverengi",
+    "ModelYili": 2020,
+    "ModelAdi": "Hatchback",
+  },
+  {
+    "Plaka": "01GHI234",
+    "Renk": "Beyaz",
+    "ModelYili": 2021,
+    "ModelAdi": "SUV",
+  },
+  {
+    "Plaka": "23JKL456",
+    "Renk": "Gri",
+    "ModelYili": 2022,
+    "ModelAdi": "Sedan",
+  },
+  {
+    "Plaka": "45MNO678",
+    "Renk": "Siyah",
+    "ModelYili": 2020,
+    "ModelAdi": "Kupe",
+  },
+  {
+    "Plaka": "67PQR890",
+    "Renk": "Kırmızı",
+    "ModelYili": 2023,
+    "ModelAdi": "Hatchback",
+  },
+  {
+    "Plaka": "34DEF123",
+    "Renk": "Kahverengi",
+    "ModelYili": 2020,
+    "ModelAdi": "Hatchback",
+    "BagajHacmi": 320.0,
+    "YedekLastik": true
+  },
+  {
+    "Plaka": "06GHI456",
+    "Renk": "Beyaz",
+    "ModelYili": 2021,
+    "ModelAdi": "SUV",
+    "BagajHacmi": 320.0,
+    "YedekLastik": true
+  },
+  {
+    "Plaka": "78JKL789",
+    "Renk": "Mavi",
+    "ModelYili": 2020,
+    "ModelAdi": "Hatchback",
+    "BagajHacmi": 320.0,
+    "YedekLastik": true
+  },
+  {
+    "Plaka": "90MNO012",
+    "Renk": "Kırmızı",
+    "ModelYili": 2022,
+    "ModelAdi": "Sedan",
+    "BagajHacmi": 320.0,
+    "YedekLastik": true
+  },
+  {
+    "Plaka": "12PQR345",
+    "Renk": "Turuncu",
+    "ModelYili": 2021,
+    "ModelAdi": "SUV",
+    "BagajHacmi": 320.0,
+    "YedekLastik": true
+  },
+  {
+    "Plaka": "34STU678",
+    "Renk": "Siyah",
+    "ModelYili": 2020,
+    "ModelAdi": "Kupe",
+    "BagajHacmi": 320.0,
+    "YedekLastik": true
+  },
+  {
+    "Plaka": "56VWX901",
+    "Renk": "Gri",
+    "ModelYili": 2023,
+    "ModelAdi": "Sedan",
+    "BagajHacmi": 320.0,
+    "YedekLastik": true
+  },
+  {
+    "Plaka": "78YZA234",
+    "Renk": "Yeşil",
+    "ModelYili": 2022,
+    "ModelAdi": "Hatchback",
+    "BagajHacmi": 320.0,
+    "YedekLastik": true
+  },
+  {
+    "Plaka": "90BCD567",
+    "Renk": "Bordo",
+    "ModelYili": 2020,
+    "ModelAdi": "Kupe",
+    "BagajHacmi": 320.0,
+    "YedekLastik": true
+  },
+  {
+    "Plaka": "12DEF890",
+    "Renk": "Kahverengi",
+    "ModelYili": 2021,
+    "ModelAdi": "SUV",
+    "BagajHacmi": 320.0,
+    "YedekLastik": true
+  },
+  {
+    "Plaka": "34EFG123",
+    "Renk": "Beyaz",
+    "ModelYili": 2020,
+    "ModelAdi": "Hatchback",
+    "BagajHacmi": 320.0,
+    "YedekLastik": true
+  },
+  {
+    "Plaka": "56GHI456",
+    "Renk": "Mavi",
+    "ModelYili": 2023,
+    "ModelAdi": "Sedan",
+    "BagajHacmi": 320.0,
+    "YedekLastik": true
+  },
+  {
+    "Plaka": "78IJK789",
+    "Renk": "Kırmızı",
+    "ModelYili": 2022,
+    "ModelAdi": "Kupe",
+    "BagajHacmi": 320.0,
+    "YedekLastik": true
+  },
+  {
+    "Plaka": "90JKL012",
+    "Renk": "Siyah",
+    "ModelYili": 2021,
+    "ModelAdi": "SUV",
+    "BagajHacmi": 320.0,
+    "YedekLastik": true
+  },
+  {
+    "Plaka": "34GHI123",
+    "Renk": "Siyah",
+    "ModelYili": 2021,
+    "ModelAdi": "SUV",
+    "OtomatikPilot": false,
+    "Fiyat": 60000.00,
+    "Temiz": true
+  },
+  {
+    "Plaka": "06JKL456",
+    "Renk": "Bordo",
+    "ModelYili": 2022,
+    "ModelAdi": "Sedan",
+    "OtomatikPilot": false,
+    "Fiyat": 60000.00,
+    "Temiz": true
+  },
+  {
+    "Plaka": "78MNO789",
+    "Renk": "Turuncu",
+    "ModelYili": 2023,
+    "ModelAdi": "Kupe",
+    "OtomatikPilot": false,
+    "Fiyat": 60000.00,
+    "Temiz": true
+  },
+  {
+    "Plaka": "90OPQ012",
+    "Renk": "Kırmızı",
+    "ModelYili": 2020,
+    "ModelAdi": "Hatchback",
+    "OtomatikPilot": false,
+    "Fiyat": 60000.00,
+    "Temiz": true
+  },
+  {
+    "Plaka": "12RST345",
+    "Renk": "Beyaz",
+    "ModelYili": 2021,
+    "ModelAdi": "SUV",
+    "OtomatikPilot": false,
+    "Fiyat": 60000.00,
+    "Temiz": true
+  },
+  {
+    "Plaka": "34UVW678",
+    "Renk": "Mavi",
+    "ModelYili": 2022,
+    "ModelAdi": "Sedan",
+    "OtomatikPilot": false,
+    "Fiyat": 60000.00,
+    "Temiz": true
+  },
+  {
+    "Plaka": "56XYZ901",
+    "Renk": "Gri",
+    "ModelYili": 2020,
+    "ModelAdi": "Kupe",
+    "OtomatikPilot": false,
+    "Fiyat": 60000.00,
+    "Temiz": true
+  },
+  {
+    "Plaka": "78ABC234",
+    "Renk": "Yeşil",
+    "ModelYili": 2021,
+    "ModelAdi": "Hatchback",
+    "OtomatikPilot": false,
+    "Fiyat": 60000.00,
+    "Temiz": true
+  },
+  {
+    "Plaka": "90DEF567",
+    "Renk": "Bordo",
+    "ModelYili": 2020,
+    "ModelAdi": "Sedan",
+    "OtomatikPilot": false,
+    "Fiyat": 60000.00,
+    "Temiz": true
+  },
+  {
+    "Plaka": "12GHI890",
+    "Renk": "Kahverengi",
+    "ModelYili": 2022,
+    "ModelAdi": "Kupe",
+    "OtomatikPilot": false,
+    "Fiyat": 60000.00,
+    "Temiz": true
+  },
+  {
+    "Plaka": "34JKL123",
+    "Renk": "Beyaz",
+    "ModelYili": 2020,
+    "ModelAdi": "Hatchback",
+    "OtomatikPilot": false,
+    "Fiyat": 60000.00,
+    "Temiz": true
+  },
+  {
+    "Plaka": "56MNO456",
+    "Renk": "Mavi",
+    "ModelYili": 2023,
+    "ModelAdi": "Sedan",
+    "OtomatikPilot": false,
+    "Fiyat": 60000.00,
+    "Temiz": true
+  },
+  {
+    "Plaka": "78PQR789",
+    "Renk": "Kırmızı",
+    "ModelYili": 2022,
+    "ModelAdi": "Kupe",
+    "OtomatikPilot": false,
+    "Fiyat": 60000.00,
+    "Temiz": true
+  },
+  {
+    "Plaka": "90STU012",
+    "Renk": "Siyah",
+    "ModelYili": 2021,
+    "ModelAdi": "SUV",
+    "OtomatikPilot": false,
+    "Fiyat": 60000.00,
+    "Temiz": true
+  }
+
+]
